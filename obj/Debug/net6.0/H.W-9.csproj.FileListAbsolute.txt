@@ -1,0 +1,8 @@
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.csproj.AssemblyReference.cache
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.AssemblyInfoInputs.cache
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.AssemblyInfo.cs
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.csproj.CoreCompileInputs.cache
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.MvcApplicationPartsAssemblyInfo.cache
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.RazorAssemblyInfo.cache
+D:\MAKTAB\HW\H.W-9\obj\Debug\net6.0\H.W-9.RazorAssemblyInfo.cs
